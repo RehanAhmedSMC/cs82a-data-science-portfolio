@@ -6,5 +6,6 @@ at Santa Monica College (Fall 2026).
 
 ## Contents
 - Module 2: Python foundations
+- Module 2: Lab2: Build multiplication out of nothing but addition and loops
 - - Module 3: Data cleaning
 
